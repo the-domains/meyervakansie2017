@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Roete: 3h00; 295km'
-datePublished: '2016-05-21T09:58:21.630Z'
-dateModified: '2016-05-21T09:54:36.824Z'
+datePublished: '2016-05-21T09:58:52.218Z'
+dateModified: '2016-05-21T09:58:24.606Z'
 title: Barberspan
 author: []
 sourcePath: _posts/2016-05-21-vertrek-na-sannieshof.md
