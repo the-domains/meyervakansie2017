@@ -1,0 +1,28 @@
+name: meyervakansie2017
+favicon: null
+layout_spectrum: 0.5158784294035286
+typography_spectrum: 0.3382583048660308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.912677978631109
+  lightness: 0.6043724075425416
+  saturation: 0.04429965210147202
+  rhythmicContrast: 0.827929797116667
+purpose: []
