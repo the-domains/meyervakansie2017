@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Roete: 3h00; 295km'
-datePublished: '2016-05-21T10:25:58.693Z'
-dateModified: '2016-05-21T10:25:14.776Z'
+datePublished: '2016-05-21T10:26:35.860Z'
+dateModified: '2016-05-21T10:26:34.383Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-vertrek-na-sannieshof.md
