@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Roete: 3h00; 295km'
-datePublished: '2016-05-21T09:58:52.218Z'
-dateModified: '2016-05-21T09:58:24.606Z'
-title: Barberspan
+datePublished: '2016-05-21T10:01:10.444Z'
+dateModified: '2016-05-21T10:00:38.336Z'
+title: Sannieshof
 author: []
 sourcePath: _posts/2016-05-21-vertrek-na-sannieshof.md
 authors: []
@@ -17,7 +17,7 @@ url: vertrek-na-sannieshof/index.html
 _type: WebPage
 
 ---
-## Barberspan
+## Sannieshof
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/572e2403-e543-4e5b-af50-3cd3a7ad0117.jpg)
 
 ## Roete na Sannieshof
