@@ -1,20 +1,4 @@
-name: Meyer Vakansie 2017
-favicon: null
-layout_spectrum: 0.76419
 typography_spectrum: 0.79688
-title: Meyer Vakansie 2017 - Suid-Namibië toer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6043724075425416
   saturation: 0.4375
   rhythmicContrast: 0.827929797116667
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76419
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Meyer Vakansie 2017 - Suid-Namibië toer
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
